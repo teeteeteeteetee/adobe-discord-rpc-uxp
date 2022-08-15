@@ -24,3 +24,6 @@ Adobe Discord Rich Presence is an extension that connects Adobe apps with Discor
 - InDesign
 - InCopy
 
+[Installation guide](https://github.com/lolitee/adobe-discord-rpc-uxp/blob/master/GUIDE.md)
+
+[Support server](https://discord.gg/RGtxbuFtzb) - use it if rly needed
