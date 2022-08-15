@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AdobeDiscordRPCService.RPC;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.ServiceProcess;
@@ -12,6 +13,10 @@ namespace AdobeDiscordRPCService
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// 
+
+        static List<Client> clients = new List<Client>();
+
         static void Main()
         {
             ServiceBase[] ServicesToRun;
