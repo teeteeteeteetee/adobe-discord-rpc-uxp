@@ -1,4 +1,4 @@
-![](demo/demo.gif)
+![](https://github.com/lolitee/adobe-discord-rpc/blob/master/demo/demo.gif?raw=true)
 # Adobe Discord Rich Presence (UXP)
 
 **Supports**:
