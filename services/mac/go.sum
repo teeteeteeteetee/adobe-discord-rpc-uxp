@@ -1,0 +1,4 @@
+github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWmnc=
+github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/hugolgst/rich-go v0.0.0-20210925091458-d59fb695d9c0 h1:IkZfZBWufGFLvci1vXLiUu8PWVtG6wlz920CMtHobMo=
+github.com/hugolgst/rich-go v0.0.0-20210925091458-d59fb695d9c0/go.mod h1:nGaW7CGfNZnhtiFxMpc4OZdqIexGXjUlBnlmpZmjEKA=
